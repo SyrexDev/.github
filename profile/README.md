@@ -6,12 +6,11 @@
 - Orion AI antiraid
 - Olympus IDE
 
+<h3 align="center">Associated with AlphaHQ</h3>
+<p align="left">
+</p>
 
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> 
   <img src="https://i.imgur.com/IsyfxyL.png" alt="arduino" width="100" height="100"/> 
   </a> 
-</p>
-
-<h3 align="center">Associated with AlphaHQ</h3>
-<p align="left">
 </p>
