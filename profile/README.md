@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://i.imgur.com/IsyfxyL.png" alt="arduino" width="80" height="80"/> 
+<p align="center"> <a href="" target="_blank" rel="noreferrer"> 
+  <img src="https://i.imgur.com/IsyfxyL.png" alt="arduino" width="120" height="120"/> 
   </a> 
 </p>
