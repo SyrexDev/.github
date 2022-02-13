@@ -1,4 +1,4 @@
-<h1 align="center"Syrex Development</h1>
+<h1 align="center">Syrex Development</h1>
 <h3 align="center">Development organization using JavaScript and C#</h3>
 
 <p align="center"> <a href="alphahq.org" target="_blank" rel="noreferrer"> 
@@ -10,6 +10,6 @@
 
 
 <h3 align="center">Associated with AlphaHQ</h3>
-<h1 align="center"Syrex Discord Bot - Orion AI - Olympus IDE</h1>
+<h1 align="center">Syrex Discord Bot - Orion AI - Olympus IDE</h1>
 <p align="left">
 </p>
