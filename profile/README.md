@@ -10,6 +10,6 @@
 
 
 <h3 align="center">Associated with AlphaHQ</h3>
-Syrex Discord Bot - Orion AI - Olympus IDE
+<h1 align="center"Syrex Discord Bot - Orion AI - Olympus IDE</h1>
 <p align="left">
 </p>
