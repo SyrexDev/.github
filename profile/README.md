@@ -10,3 +10,8 @@
 <h3 align="center">Associated with AlphaHQ</h3>
 <p align="left">
 </p>
+
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> 
+  <img src="https://i.imgur.com/IsyfxyL.png" alt="arduino" width="80" height="80"/> 
+  </a> 
+</p>
